@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Rust, Fast-Api, React JS, Node.js and Flutter<br>🎯 Goals: Master full-stack development and build cross-platform applications<br>💡 A problem solver who loves turning ideas into reality through code.<br>🎲 Fun fact: I can switch between Flutter and React projects so fast, I sometimes use Dart syntax in JavaScript!</p>
+<p align="left">📚 I'm currently learning Rust, Fast-Api, React JS, Node.js and Flutter.<br>🎯 Goals: Master full-stack development and build cross-platform applications.<br>💡 A problem solver who loves turning ideas into reality through code.<br>🎲 Fun fact: I can switch between Flutter and React projects so fast, I sometimes use Dart syntax in JavaScript!</p>
 
 ###
 
